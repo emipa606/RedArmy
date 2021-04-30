@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchTabDef>
+    <defName>Soviet</defName>
+    <label>Soviet Technology</label>
+  </ResearchTabDef>
+  <ResearchProjectDef>
+    <defName>SovietEarlyWarTech</defName>
+    <label>Soviet Early War Research</label>
+    <techLevel>Industrial</techLevel>
+    <description>First steps towards the Soviet war machine. This research opens avenues to the Mosin Nagant, PPSh, and basic clothing assigned to the average infantry of the Heer.</description>
+    <baseCost>750</baseCost>
+    <tab>Soviet</tab>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SovietMidWarTech</defName>
+    <label>Soviet Mid War Research</label>
+    <techLevel>Industrial</techLevel>
+    <description>Steady work in development of Soviet war designs. This research opens avenues to the DP27, and SVT40.</description>
+    <baseCost>1000</baseCost>
+    <tab>Soviet</tab>
+    <prerequisites>
+      <li>SovietEarlyWarTech</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SovietLateWarTech</defName>
+    <label>Soviet Late War Research</label>
+    <techLevel>Industrial</techLevel>
+    <description>The cusp of Soviet war designs. This research opens avenues to the ZIS anti tank platform.</description>
+    <baseCost>1300</baseCost>
+    <tab>Soviet</tab>
+    <prerequisites>
+      <li>Machining</li>
+      <li>SovietMidWarTech</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+</Defs>

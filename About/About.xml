@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Red Army (Continued)</name>
+  <packageId>Mlie.RedArmy</packageId>
+  <author>bean</author>
+  <url>https://github.com/emipa606/RedArmy</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter>
+    <li>CETeam.CombatExtended</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of beans mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=808149207
+
+- Included an updated CE-patch for 1.2 in the mod
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/RedArmy][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+B18 up. Maxim broken, ZIS 2 works fine with mortar shells. Sorry for delay, wife's pregnant so that kinda takes priority. :)
+
+
+
+Adds Soviet faction, including weapons and equipment from the Red Army.
+
+Currently incorporated:
+
+vodkavodkavodkavodka
+Soviet Infantry / MG / Bannerman / Assault Infantry
+Soviet Uniform (Tunic, Hat, Helmet)
+Soviet Faction
+Soviet Weapons (PPSh, Mosin Nagant, ZIS 2 AT Gun, DP27, SVT-40)
+Research
+Maxim emplaced MG
+Sniper variant of Nagant
+Pistol - 1895 Nagant
+Small sculptures
+Flag.
+
+[b]Interested in my other mods?[/]
+-[url=http://steamcommunity.com/sharedfiles/filedetails/?id=941839892]Star Trek Federation (Includes the borg race)[/url]
+-[url=http://steamcommunity.com/sharedfiles/filedetails/?id=946260992]Borg Race/Faction - if you only want the Borg, select this mod. Do not run both star trek and borg mod. :)[/url]
+-[url=http://steamcommunity.com/sharedfiles/filedetails/?id=827966051]Dune - Fremen Faction[/url]
+-[url=http://steamcommunity.com/sharedfiles/filedetails/?id=808149207]WWII Red Army - Soviet Faction[/url]
+-[url=http://steamcommunity.com/sharedfiles/filedetails/?id=793443438]WWII Wehrmacht - German Faction[/url]
+-[url=http://steamcommunity.com/sharedfiles/filedetails/?id=790242814]Napoleonic Age - France/Britain/Prussia[/url]
+
+
+
+[b]Wanna buy me a coffee?[/b]
+[url=Ko-fi.com/A21223CU] coffee from ko-fi. [/url]
+
+
+
+Feel free to leave feedback on ludeon forums:
+
+https://ludeon.com/forums/index.php?topic=27631.0
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
+</ModMetaData>
+
