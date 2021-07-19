@@ -7,6 +7,7 @@
   <supportedVersions>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter>
@@ -16,7 +17,8 @@
 Update of beans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=808149207
 
-- Included an updated CE-patch for 1.2 in the mod
+- Included an updated CE-patch for 1.2 in the mod, based on the patch by The Irish Ace
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1401527014
 
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
@@ -28,9 +30,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=808149207
 [/table]
 	
 [img]https://i.imgur.com/NOW7jU1.png[/img]
-B18 up. Maxim broken, ZIS 2 works fine with mortar shells. Sorry for delay, wife's pregnant so that kinda takes priority. :)
-
-
 
 Adds Soviet faction, including weapons and equipment from the Red Army.
 
@@ -48,25 +47,6 @@ Pistol - 1895 Nagant
 Small sculptures
 Flag.
 
-[b]Interested in my other mods?[/]
--[url=http://steamcommunity.com/sharedfiles/filedetails/?id=941839892]Star Trek Federation (Includes the borg race)[/url]
--[url=http://steamcommunity.com/sharedfiles/filedetails/?id=946260992]Borg Race/Faction - if you only want the Borg, select this mod. Do not run both star trek and borg mod. :)[/url]
--[url=http://steamcommunity.com/sharedfiles/filedetails/?id=827966051]Dune - Fremen Faction[/url]
--[url=http://steamcommunity.com/sharedfiles/filedetails/?id=808149207]WWII Red Army - Soviet Faction[/url]
--[url=http://steamcommunity.com/sharedfiles/filedetails/?id=793443438]WWII Wehrmacht - German Faction[/url]
--[url=http://steamcommunity.com/sharedfiles/filedetails/?id=790242814]Napoleonic Age - France/Britain/Prussia[/url]
-
-
-
-[b]Wanna buy me a coffee?[/b]
-[url=Ko-fi.com/A21223CU] coffee from ko-fi. [/url]
-
-
-
-Feel free to leave feedback on ludeon forums:
-
-https://ludeon.com/forums/index.php?topic=27631.0
-
 [img]https://i.imgur.com/Rs6T6cr.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
@@ -78,4 +58,3 @@ https://ludeon.com/forums/index.php?topic=27631.0
 [/list]
 </description>
 </ModMetaData>
-

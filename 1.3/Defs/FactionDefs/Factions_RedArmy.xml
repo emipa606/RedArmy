@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="FactionBase">
+    <defName>Soviet</defName>
+    <label>Soviet Outpost</label>
+    <description>A Soviet outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions.</description>
+    <pawnsPlural>Soviets</pawnsPlural>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <settlementGenerationWeight>.5</settlementGenerationWeight>
+    <canMakeRandomly>true</canMakeRandomly>
+    <canSiege>true</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <leaderTitle>Komissar</leaderTitle>
+    <factionIconPath>Things/RedArmy/Items/Home</factionIconPath>
+    <factionNameMaker>NamerFactionSoviet</factionNameMaker>
+    <techLevel>Industrial</techLevel>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>Outlander</li>
+        </categories>
+      </li>
+    </backstoryFilters>
+    <allowedCultures>
+      <li>Rustican</li>
+    </allowedCultures>
+    <caravanTraderKinds>
+      <li>Caravan_Russian_BulkGoods</li>
+      <li>Caravan_Russian_CombatSupplier</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>Visitor_Russian_Standard</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>FactionBase_Russian_Standard</li>
+    </baseTraderKinds>
+    <raidLootMaker>OutlanderRaidLootMaker</raidLootMaker>
+    <allowedArrivalTemperatureRange>-40~45</allowedArrivalTemperatureRange>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70, 50)</li>
+        <li>(700, 100)</li>
+        <li>(1300, 150)</li>
+        <li>(100000, 10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <SovietInfantry>100</SovietInfantry>
+          <SovietScoutInfantry>5</SovietScoutInfantry>
+          <SovietBannerman>15</SovietBannerman>
+          <SovietMG>5</SovietMG>
+          <SovietAssaultInfantry>10</SovietAssaultInfantry>
+          <SovietGrenadier>2</SovietGrenadier>
+          <SovietFactionCommander>1</SovietFactionCommander>
+          <SovietGuardsInfantry>50</SovietGuardsInfantry>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <SovietInfantry>250</SovietInfantry>
+          <SovietGuardsInfantry>50</SovietGuardsInfantry>
+          <SovietFactionCommander>1</SovietFactionCommander>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <Town_Trader>1</Town_Trader>
+        </traders>
+        <carriers>
+          <Muffalo>1</Muffalo>
+          <Dromedary>1</Dromedary>
+        </carriers>
+        <guards>
+          <SovietInfantry>250</SovietInfantry>
+          <SovietGuardsInfantry>50</SovietGuardsInfantry>
+          <SovietMG>100</SovietMG>
+          <SovietFactionCommander>1</SovietFactionCommander>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <SovietInfantry>250</SovietInfantry>
+          <SovietMG>50</SovietMG>
+          <SovietFactionCommander>1</SovietFactionCommander>
+          <SovietGuardsInfantry>100</SovietGuardsInfantry>
+        </options>
+      </li>
+    </pawnGroupMakers>
+    <settlementTexturePath>Things/RedArmy/Items/Home</settlementTexturePath>
+    <colorSpectrum>
+      <li>(0.64, 0.42, 0.36)</li>
+      <li>(0.47, 0.5, 0.91)</li>
+    </colorSpectrum>
+  </FactionDef>
+</Defs>

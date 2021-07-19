@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef>
+    <defName>MakeMaximCrate</defName>
+    <label>cast bullets, assemble crate</label>
+    <description>Craft a box of heavy machine gun rounds.</description>
+    <jobString>Assembling maxim HMG crate.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <workAmount>400</workAmount>
+    <recipeUsers>
+      <li>TableMachining</li>
+    </recipeUsers>
+    <targetCountAdjustment>5</targetCountAdjustment>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+        <li>Plasteel</li>
+        <li>Silver</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <MaximRounds>5</MaximRounds>
+    </products>
+    <skillRequirements>
+      <Crafting>3</Crafting>
+    </skillRequirements>
+    <workSkill>Crafting</workSkill>
+    <researchPrerequisite>SovietEarlyWarTech</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>BrewVodka</defName>
+    <label>make vodka</label>
+    <description>Make vodka from potatoes.</description>
+    <jobString>Making vodka. Cyka blyat.</jobString>
+    <workSpeedStat>DrugCookingSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Brewing</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <recipeUsers>
+      <li>Brewery</li>
+    </recipeUsers>
+    <workAmount>2500</workAmount>
+    <targetCountAdjustment>1</targetCountAdjustment>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawPotatoes</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RawPotatoes</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SovietVodka>3</SovietVodka>
+    </products>
+    <workSkill>Cooking</workSkill>
+  </RecipeDef>
+</Defs>

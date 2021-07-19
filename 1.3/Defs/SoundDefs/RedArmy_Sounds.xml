@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ==================== Bleee ================================ -->
+  <SoundDef>
+    <defName>Tank_Moving</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/Tank_Moving</clipPath>
+          </li>
+        </grains>
+        <pitchRange>
+          <min>0.9152174</min>
+          <max>1.042391</max>
+        </pitchRange>
+        <volumeRange>
+          <min>10.91304</min>
+          <max>10.91304</max>
+        </volumeRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Tank_Injured</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/Tank_Injured</clipPath>
+          </li>
+        </grains>
+        <pitchRange>
+          <min>0.9152174</min>
+          <max>1.042391</max>
+        </pitchRange>
+        <volumeRange>
+          <min>13.91304</min>
+          <max>13.91304</max>
+        </volumeRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Tank_Explosion</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/Tank_Explosion</clipPath>
+          </li>
+        </grains>
+        <pitchRange>
+          <min>0.9152174</min>
+          <max>1.042391</max>
+        </pitchRange>
+        <volumeRange>
+          <min>23.91304</min>
+          <max>23.91304</max>
+        </volumeRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>NagantPistol_Fire1</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/NagantPistol_Fire</clipPath>
+          </li>
+        </grains>
+        <pitchRange>
+          <min>0.9152174</min>
+          <max>1.042391</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>SVT_Fire1</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/SVT_Fire</clipPath>
+          </li>
+        </grains>
+        <pitchRange>
+          <min>0.9152174</min>
+          <max>1.042391</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Maxim_Fire1</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/Maxim_Fire</clipPath>
+          </li>
+        </grains>
+        <pitchRange>
+          <min>1.2152174</min>
+          <max>1.642391</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Mosin_Fire1</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/Mosin_Fire</clipPath>
+          </li>
+        </grains>
+        <pitchRange>
+          <min>0.9152174</min>
+          <max>1.042391</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>DP27_Fire1</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/DP27_Fire</clipPath>
+          </li>
+        </grains>
+        <pitchRange>
+          <min>0.9152174</min>
+          <max>1.042391</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>PPSh_Fire1</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/PPSh_Fire</clipPath>
+          </li>
+        </grains>
+        <pitchRange>
+          <min>0.9152174</min>
+          <max>1.342391</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Zis_Fire1</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/Zis_Fire</clipPath>
+          </li>
+        </grains>
+        <pitchRange>
+          <min>0.9152174</min>
+          <max>1.042391</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Tank_Fire1</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Things/Tank_Fire</clipPath>
+          </li>
+        </grains>
+        <pitchRange>
+          <min>0.9152174</min>
+          <max>1.042391</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>

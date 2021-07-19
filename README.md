@@ -5,15 +5,22 @@
 Update of beans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=808149207
 
-- Included an updated CE-patch for 1.2 in the mod
+- Included an updated CE-patch for 1.2 in the mod, based on the patch by The Irish Ace
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1401527014
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
+
+[table]
+    [tr]
+        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
+[/td]
+        [td]https://github.com/emipa606/RedArmy]![Image](https://i.imgur.com/kTkpTOE.png)
+[/td]
+    [/tr]
+[/table]
 	
 ![Image](https://i.imgur.com/NOW7jU1.png)
-
-B18 up. Maxim broken, ZIS 2 works fine with mortar shells. Sorry for delay, wife's pregnant so that kinda takes priority. :)
-
 
 
 Adds Soviet faction, including weapons and equipment from the Red Army.
@@ -31,25 +38,6 @@ Sniper variant of Nagant
 Pistol - 1895 Nagant
 Small sculptures
 Flag.
-
-**Interested in my other mods?[/]
--http://steamcommunity.com/sharedfiles/filedetails/?id=941839892]Star Trek Federation (Includes the borg race)
--http://steamcommunity.com/sharedfiles/filedetails/?id=946260992]Borg Race/Faction - if you only want the Borg, select this mod. Do not run both star trek and borg mod. :)
--http://steamcommunity.com/sharedfiles/filedetails/?id=827966051]Dune - Fremen Faction
--http://steamcommunity.com/sharedfiles/filedetails/?id=808149207]WWII Red Army - Soviet Faction
--http://steamcommunity.com/sharedfiles/filedetails/?id=793443438]WWII Wehrmacht - German Faction
--http://steamcommunity.com/sharedfiles/filedetails/?id=790242814]Napoleonic Age - France/Britain/Prussia
-
-
-
-**Wanna buy me a coffee?**
-Ko-fi.com/A21223CU] coffee from ko-fi. 
-
-
-
-Feel free to leave feedback on ludeon forums:
-
-https://ludeon.com/forums/index.php?topic=27631.0
 
 ![Image](https://i.imgur.com/Rs6T6cr.png)
 
