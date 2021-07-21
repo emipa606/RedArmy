@@ -6,6 +6,7 @@
     <description>A Soviet outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions.</description>
     <pawnsPlural>Soviets</pawnsPlural>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
     <settlementGenerationWeight>.5</settlementGenerationWeight>
     <canMakeRandomly>true</canMakeRandomly>
     <canSiege>true</canSiege>
