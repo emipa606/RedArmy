@@ -1,26 +1,17 @@
 # RedArmy
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of beans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=808149207
 
-- Included an updated CE-patch for 1.2 in the mod, based on the patch by The Irish Ace
-  https://steamcommunity.com/sharedfiles/filedetails/?id=1401527014
+- [strike]Included an updated CE-patch for 1.2 in the mod, based on the patch by The Irish Ace
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1401527014[/strike] CE-patches now included in the main CE-mod instead
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/RedArmy]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 Adds Soviet faction, including weapons and equipment from the Red Army.
@@ -39,7 +30,7 @@ Pistol - 1895 Nagant
 Small sculptures
 Flag.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

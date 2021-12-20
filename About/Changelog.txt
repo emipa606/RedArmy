@@ -1,5 +1,8 @@
 # Changelog for RedArmy
 
+1.0.3.0 - CE-patch is now included in the main CE-mod instead
+
+
 1.0.2.0 - Added confiurable at game-start option
 
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Red Army (Continued)</name>
   <packageId>Mlie.RedArmy</packageId>
@@ -13,14 +13,14 @@
   <loadAfter>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of beans mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=808149207
 
-- Included an updated CE-patch for 1.2 in the mod, based on the patch by The Irish Ace
-  https://steamcommunity.com/sharedfiles/filedetails/?id=1401527014
+- [strike]Included an updated CE-patch for 1.2 in the mod, based on the patch by The Irish Ace
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1401527014[/strike] CE-patches now included in the main CE-mod instead
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
@@ -29,7 +29,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=808149207
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 Adds Soviet faction, including weapons and equipment from the Red Army.
 
@@ -47,7 +47,7 @@ Pistol - 1895 Nagant
 Small sculptures
 Flag.
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.

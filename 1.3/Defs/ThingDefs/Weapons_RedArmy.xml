@@ -21,6 +21,7 @@
     <tradeability>None</tradeability>
     <altitudeLayer>Item</altitudeLayer>
     <alwaysHaulable>True</alwaysHaulable>
+    <smeltable>True</smeltable>
     <tickerType>Never</tickerType>
     <techLevel>Industrial</techLevel>
     <weaponTags>
@@ -80,6 +81,7 @@
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
     <alwaysHaulable>True</alwaysHaulable>
+    <smeltable>True</smeltable>
     <tickerType>Never</tickerType>
     <techLevel>Industrial</techLevel>
     <weaponTags>
@@ -139,6 +141,7 @@
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
     <alwaysHaulable>True</alwaysHaulable>
+    <smeltable>True</smeltable>
     <tickerType>Never</tickerType>
     <techLevel>Industrial</techLevel>
     <weaponTags>
@@ -198,6 +201,7 @@
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
     <alwaysHaulable>True</alwaysHaulable>
+    <smeltable>True</smeltable>
     <tickerType>Never</tickerType>
     <techLevel>Industrial</techLevel>
     <weaponTags>
@@ -257,6 +261,7 @@
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
     <alwaysHaulable>True</alwaysHaulable>
+    <smeltable>True</smeltable>
     <tickerType>Never</tickerType>
     <techLevel>Industrial</techLevel>
     <weaponTags>
@@ -316,6 +321,7 @@
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
     <alwaysHaulable>True</alwaysHaulable>
+    <smeltable>True</smeltable>
     <tickerType>Never</tickerType>
     <techLevel>Spacer</techLevel>
     <weaponTags>
@@ -387,6 +393,7 @@
     </statBases>
     <altitudeLayer>Item</altitudeLayer>
     <alwaysHaulable>True</alwaysHaulable>
+    <smeltable>True</smeltable>
     <tickerType>Never</tickerType>
     <techLevel>Industrial</techLevel>
     <weaponTags>
@@ -453,6 +460,7 @@
     </graphicData>
     <soundInteract>Interact_Grenade</soundInteract>
     <techLevel>Industrial</techLevel>
+    <smeltable>True</smeltable>
     <statBases>
       <MarketValue>400</MarketValue>
       <RangedWeapon_Cooldown>2.66</RangedWeapon_Cooldown>
