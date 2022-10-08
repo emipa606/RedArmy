@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>MaximRounds</defName>
+    <label>box of Maxim HMG rounds</label>
+    <description>Fired from emplaced heavy machine guns.</description>
+    <graphicData>
+      <texPath>Things/RedArmy/Items/HMGCrate</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <tickerType>Normal</tickerType>
+    <stackLimit>200</stackLimit>
+    <statBases>
+      <MaxHitPoints>70</MaxHitPoints>
+      <MarketValue>14</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>2</DeteriorationRate>
+      <Mass>1</Mass>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>2</explosiveRadius>
+        <explosiveDamageType>Bomb</explosiveDamageType>
+        <explosiveExpandPerStackcount>0.4</explosiveExpandPerStackcount>
+        <startWickHitPointsPercent>0.333</startWickHitPointsPercent>
+        <wickTicks>
+          <min>10</min>
+          <max>30</max>
+        </wickTicks>
+      </li>
+    </comps>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="DrugBase">
+    <defName>SovietVodka</defName>
+    <label>Vodka</label>
+    <description>In Soviet Russia, vodka drink you!</description>
+    <graphicData>
+      <texPath>Things/RedArmy/Items/Vodka</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <equippedAngleOffset>-150</equippedAngleOffset>
+    <rotatable>false</rotatable>
+    <stackLimit>25</stackLimit>
+    <statBases>
+      <DeteriorationRate>0</DeteriorationRate>
+      <MarketValue>25</MarketValue>
+      <Nutrition>0.08</Nutrition>
+      <Mass>1</Mass>
+    </statBases>
+    <ingestible>
+      <foodType>Fluid, Processed, Liquor</foodType>
+      <joy>0.27</joy>
+      <joyKind>Chemical</joyKind>
+      <nurseable>true</nurseable>
+      <drugCategory>Social</drugCategory>
+      <ingestSound>Ingest_Beer</ingestSound>
+      <ingestCommandString>Drink {0}</ingestCommandString>
+      <ingestReportString>Drinking {0}.</ingestReportString>
+      <chairSearchRadius>25</chairSearchRadius>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>AlcoholHigh</hediffDef>
+          <severity>0.65</severity>
+          <toleranceChemical>Alcohol</toleranceChemical>
+        </li>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>AlcoholTolerance</hediffDef>
+          <severity>0.062</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <equipmentType>Primary</equipmentType>
+    <techLevel>Neolithic</techLevel>
+    <comps>
+      <li Class="CompProperties_Drug">
+        <chemical>Alcohol</chemical>
+        <addictiveness>0.008</addictiveness>
+        <minToleranceToAddict>0.25</minToleranceToAddict>
+        <existingAddictionSeverityOffset>0.20</existingAddictionSeverityOffset>
+        <needLevelOffset>1</needLevelOffset>
+        <listOrder>10</listOrder>
+      </li>
+      <li>
+        <compClass>CompEquippable</compClass>
+      </li>
+    </comps>
+    <verbs>
+      <li>
+        <verbClass>Verb_MeleeAttack</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <meleeDamageDef>Blunt</meleeDamageDef>
+      </li>
+    </verbs>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>SovietFlag</defName>
+    <label>soviet flag</label>
+    <description>A soviet era flag, depicting the iconic hammer and sickle.</description>
+    <graphicData>
+      <texPath>Things/RedArmy/Items/SovietFlag</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shadowData>
+        <volume>(0.08,0.3,0.08)</volume>
+        <offset>(0,0,-0.18)</offset>
+      </shadowData>
+      <damageData>
+        <rect>(0.3,0.3,0.4,0.4)</rect>
+      </damageData>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <altitudeLayer>Item</altitudeLayer>
+    <rotatable>false</rotatable>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MaxHitPoints>75</MaxHitPoints>
+      <WorkToMake>150</WorkToMake>
+      <Flammability>1.0</Flammability>
+      <Beauty>2</Beauty>
+      <JoyGainFactor>1</JoyGainFactor>
+      <Mass>1</Mass>
+    </statBases>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <costStuffCount>15</costStuffCount>
+    <pathCost>10</pathCost>
+    <designationCategory>Joy</designationCategory>
+    <designationHotKey>Misc1</designationHotKey>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <researchPrerequisites>
+      <li>SovietEarlyWarTech</li>
+    </researchPrerequisites>
+  </ThingDef>
+  <ThingDef ParentName="SculptureBase">
+    <defName>SovietStatueSmall</defName>
+    <label>small soviet sculpture</label>
+    <description>A smaller statue commemorating the worker.</description>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Things/RedArmy/Items/SmallSovietStatue</texPath>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <fillPercent>0.35</fillPercent>
+    <rotatable>false</rotatable>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Beauty>30</Beauty>
+      <WorkToMake>20000</WorkToMake>
+      <Mass>4</Mass>
+    </statBases>
+    <researchPrerequisites>
+      <li>SovietEarlyWarTech</li>
+    </researchPrerequisites>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>70</costStuffCount>
+  </ThingDef>
+</Defs>
