@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef>
+    <defName>NamerFactionSoviet</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;1st Rifle Division</li>
+        <li>name-&gt;5th Vitebsk Rifle Division</li>
+        <li>name-&gt;63rd Mountain Rifle Division</li>
+        <li>name-&gt;70th Guards Rifle Division</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>
