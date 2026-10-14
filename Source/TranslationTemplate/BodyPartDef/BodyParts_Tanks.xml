@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Tank Armor -->
+  <TankBody.label>Tank Armor</TankBody.label>
+  <!-- EN: Chassis -->
+  <TankChassis.label>Chassis</TankChassis.label>
+  <!-- EN: Tank Commander -->
+  <TankCommander.label>Tank Commander</TankCommander.label>
+  <!-- EN: Tank Driver -->
+  <TankDriver.label>Tank Driver</TankDriver.label>
+  <!-- EN: View port -->
+  <TankDrivingViewPort.label>View port</TankDrivingViewPort.label>
+  <!-- EN: Engine -->
+  <TankEngine.label>Engine</TankEngine.label>
+  <!-- EN: Tank Gunner -->
+  <TankGunner.label>Tank Gunner</TankGunner.label>
+  <!-- EN: Tank hull -->
+  <TankHull.label>Tank hull</TankHull.label>
+  <!-- EN: Loading System -->
+  <TankLoadingSystem.label>Loading System</TankLoadingSystem.label>
+  <!-- EN: left tank track -->
+  <TankTrackLeft.label>left tank track</TankTrackLeft.label>
+  <!-- EN: right tank track -->
+  <TankTrackRight.label>right tank track</TankTrackRight.label>
+</LanguageData>

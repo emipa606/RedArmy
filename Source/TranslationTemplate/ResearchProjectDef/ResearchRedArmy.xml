@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Soviet Early War Research -->
+  <SovietEarlyWarTech.label>Soviet Early War Research</SovietEarlyWarTech.label>
+  <!-- EN: First steps towards the Soviet war machine. This research opens avenues to the Mosin Nagant, PPSh, and basic clothing assigned to the average infantry of the Heer. -->
+  <SovietEarlyWarTech.description>First steps towards the Soviet war machine. This research opens avenues to the Mosin Nagant, PPSh, and basic clothing assigned to the average infantry of the Heer.</SovietEarlyWarTech.description>
+  <!-- EN: Soviet Late War Research -->
+  <SovietLateWarTech.label>Soviet Late War Research</SovietLateWarTech.label>
+  <!-- EN: The cusp of Soviet war designs. This research opens avenues to the ZIS anti tank platform. -->
+  <SovietLateWarTech.description>The cusp of Soviet war designs. This research opens avenues to the ZIS anti tank platform.</SovietLateWarTech.description>
+  <!-- EN: Soviet Mid War Research -->
+  <SovietMidWarTech.label>Soviet Mid War Research</SovietMidWarTech.label>
+  <!-- EN: Steady work in development of Soviet war designs. This research opens avenues to the DP27, and SVT40. -->
+  <SovietMidWarTech.description>Steady work in development of Soviet war designs. This research opens avenues to the DP27, and SVT40.</SovietMidWarTech.description>
+</LanguageData>

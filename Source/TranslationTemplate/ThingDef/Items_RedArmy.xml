@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: box of Maxim HMG rounds -->
+  <MaximRounds.label>box of Maxim HMG rounds</MaximRounds.label>
+  <!-- EN: Fired from emplaced heavy machine guns. -->
+  <MaximRounds.description>Fired from emplaced heavy machine guns.</MaximRounds.description>
+  <!-- EN: soviet flag -->
+  <SovietFlag.label>soviet flag</SovietFlag.label>
+  <!-- EN: A soviet era flag, depicting the iconic hammer and sickle. -->
+  <SovietFlag.description>A soviet era flag, depicting the iconic hammer and sickle.</SovietFlag.description>
+  <!-- EN: small soviet sculpture -->
+  <SovietStatueSmall.label>small soviet sculpture</SovietStatueSmall.label>
+  <!-- EN: A smaller statue commemorating the worker. -->
+  <SovietStatueSmall.description>A smaller statue commemorating the worker.</SovietStatueSmall.description>
+  <!-- EN: Vodka -->
+  <SovietVodka.label>Vodka</SovietVodka.label>
+  <!-- EN: In Soviet Russia, vodka drink you! -->
+  <SovietVodka.description>In Soviet Russia, vodka drink you!</SovietVodka.description>
+  <!-- EN: Drink {0} -->
+  <SovietVodka.ingestible.ingestCommandString>Drink {0}</SovietVodka.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <SovietVodka.ingestible.ingestReportString>Drinking {0}.</SovietVodka.ingestible.ingestReportString>
+  <!-- EN: Vodka -->
+  <SovietVodka.verbs.Verb_MeleeAttack.label>Vodka</SovietVodka.verbs.Verb_MeleeAttack.label>
+</LanguageData>

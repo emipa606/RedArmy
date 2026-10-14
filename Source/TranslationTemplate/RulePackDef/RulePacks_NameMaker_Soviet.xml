@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>name->1st Rifle Division</li>
+    <li>name->5th Vitebsk Rifle Division</li>
+    <li>name->63rd Mountain Rifle Division</li>
+    <li>name->70th Guards Rifle Division</li>
+  -->
+  <NamerFactionSoviet.rulePack.rulesStrings>
+    <li>name->1st Rifle Division</li>
+    <li>name->5th Vitebsk Rifle Division</li>
+    <li>name->63rd Mountain Rifle Division</li>
+    <li>name->70th Guards Rifle Division</li>
+  </NamerFactionSoviet.rulePack.rulesStrings>
+</LanguageData>

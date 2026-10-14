@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make vodka -->
+  <BrewVodka.label>make vodka</BrewVodka.label>
+  <!-- EN: Make vodka from potatoes. -->
+  <BrewVodka.description>Make vodka from potatoes.</BrewVodka.description>
+  <!-- EN: Making vodka. Cyka blyat. -->
+  <BrewVodka.jobString>Making vodka. Cyka blyat.</BrewVodka.jobString>
+  <!-- EN: cast bullets, assemble crate -->
+  <MakeMaximCrate.label>cast bullets, assemble crate</MakeMaximCrate.label>
+  <!-- EN: Craft a box of heavy machine gun rounds. -->
+  <MakeMaximCrate.description>Craft a box of heavy machine gun rounds.</MakeMaximCrate.description>
+  <!-- EN: Assembling maxim HMG crate. -->
+  <MakeMaximCrate.jobString>Assembling maxim HMG crate.</MakeMaximCrate.jobString>
+</LanguageData>

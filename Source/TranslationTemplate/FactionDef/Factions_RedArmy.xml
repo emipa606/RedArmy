@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Soviet Outpost -->
+  <Soviet.label>Soviet Outpost</Soviet.label>
+  <!-- EN: A Soviet outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions. -->
+  <Soviet.description>A Soviet outpost. Most outposts are assigned a regiment for garrison, and this regiment acts as both a defense and an offense in the case of attacking enemy factions.</Soviet.description>
+  <!-- EN: Komissar -->
+  <Soviet.leaderTitle>Komissar</Soviet.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Soviet.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Soviet.messageDefendersAttacking>
+  <!-- EN: member -->
+  <Soviet.pawnSingular>member</Soviet.pawnSingular>
+  <!-- EN: Soviets -->
+  <Soviet.pawnsPlural>Soviets</Soviet.pawnsPlural>
+</LanguageData>

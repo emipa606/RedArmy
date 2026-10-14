@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ZIS 2 cannon -->
+  <Artillery_zis.label>ZIS 2 cannon</Artillery_zis.label>
+  <!-- EN: A ZIS 2 cannon, designed to fire HE and AP shells against soft and hard targets. -->
+  <Artillery_zis.description>A ZIS 2 cannon, designed to fire HE and AP shells against soft and hard targets.</Artillery_zis.description>
+  <!-- EN: ZIS 2 cannon -->
+  <Artillery_zis.verbs.Verb_Shoot.label>ZIS 2 cannon</Artillery_zis.verbs.Verb_Shoot.label>
+  <!-- EN: Maxim Round -->
+  <Bullet_Maxim.label>Maxim Round</Bullet_Maxim.label>
+  <!-- EN: Explosive Zis shot -->
+  <Bullet_Zis.label>Explosive Zis shot</Bullet_Zis.label>
+  <!-- EN: Maxim HMG -->
+  <Maxim_HMG.label>Maxim HMG</Maxim_HMG.label>
+  <!-- EN: Maxim machine gun, designed to mow down enemy infantry. -->
+  <Maxim_HMG.description>Maxim machine gun, designed to mow down enemy infantry.</Maxim_HMG.description>
+  <!-- EN: Maxim HMG -->
+  <Maxim_HMG.verbs.Verb_Shoot.label>Maxim HMG</Maxim_HMG.verbs.Verb_Shoot.label>
+  <!-- EN: Maxim HMG -->
+  <Turret_Maxim.label>Maxim HMG</Turret_Maxim.label>
+  <!-- EN: Maxim heavy machine gun, designed to mow down infantry. Large rounds, watercooled weapon. -->
+  <Turret_Maxim.description>Maxim heavy machine gun, designed to mow down infantry. Large rounds, watercooled weapon.</Turret_Maxim.description>
+  <!-- EN: ZIS 2 -->
+  <Turret_Zis.label>ZIS 2</Turret_Zis.label>
+  <!-- EN: ZIS 2, designed to fire both HE and AP shells against soft and hard targets. -->
+  <Turret_Zis.description>ZIS 2, designed to fire both HE and AP shells against soft and hard targets.</Turret_Zis.description>
+</LanguageData>

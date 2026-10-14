@@ -1,5 +1,9 @@
 # Changelog for RedArmy
 
+1.7.0 - Mod updated for 1.7 and passed autotests
+Used DeepL to update translations for German, ChineseSimplified, French
+
+
 1.6.1 - Fixed unique asset bundle filename
 
 

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Steel infantry helmet -->
+  <Apparel_GuardsHelmet.label>Steel infantry helmet</Apparel_GuardsHelmet.label>
+  <!-- EN: A thick steel helmet, painted a simple drab green. -->
+  <Apparel_GuardsHelmet.description>A thick steel helmet, painted a simple drab green.</Apparel_GuardsHelmet.description>
+  <!-- EN: Red Army Tunic - Guards Rifle -->
+  <Apparel_RAGuards.label>Red Army Tunic - Guards Rifle</Apparel_RAGuards.label>
+  <!-- EN: Standard uniform for Soviet infantry. Thick cloth affords a fair level of comfort, as well as padding against blunt objects. Otherwise, this is nothing more than cloth, and affords little protection against bullets, artillery, or any other sharp instruments. This tunic bears a thick bedroll, containing a small multitude of tools and equipment within its folds. -->
+  <Apparel_RAGuards.description>Standard uniform for Soviet infantry. Thick cloth affords a fair level of comfort, as well as padding against blunt objects. Otherwise, this is nothing more than cloth, and affords little protection against bullets, artillery, or any other sharp instruments. This tunic bears a thick bedroll, containing a small multitude of tools and equipment within its folds.</Apparel_RAGuards.description>
+  <!-- EN: Red Army Tunic -->
+  <Apparel_RAInfantry.label>Red Army Tunic</Apparel_RAInfantry.label>
+  <!-- EN: Standard uniform for Soviet infantry. Thick cloth affords a fair level of comfort, as well as padding against blunt objects. Otherwise, this is nothing more than cloth, and affords little protection against bullets, artillery, or any other sharp instruments. -->
+  <Apparel_RAInfantry.description>Standard uniform for Soviet infantry. Thick cloth affords a fair level of comfort, as well as padding against blunt objects. Otherwise, this is nothing more than cloth, and affords little protection against bullets, artillery, or any other sharp instruments.</Apparel_RAInfantry.description>
+  <!-- EN: Field cap -->
+  <Apparel_RAPeakCap.label>Field cap</Apparel_RAPeakCap.label>
+  <!-- EN: A soft, thick hat designed for light patrol duty. -->
+  <Apparel_RAPeakCap.description>A soft, thick hat designed for light patrol duty.</Apparel_RAPeakCap.description>
+  <!-- EN: Soviet Cloak -->
+  <Apparel_ScoutCloak.label>Soviet Cloak</Apparel_ScoutCloak.label>
+  <!-- EN: This is a soviet style cloak, designed to provide warmth. Provides substantially more protection from harsh weather, as the poncho is lined and designed for insulation. -->
+  <Apparel_ScoutCloak.description>This is a soviet style cloak, designed to provide warmth. Provides substantially more protection from harsh weather, as the poncho is lined and designed for insulation.</Apparel_ScoutCloak.description>
+  <!-- EN: Steel infantry helmet -->
+  <Apparel_StrelkyHelmet.label>Steel infantry helmet</Apparel_StrelkyHelmet.label>
+  <!-- EN: A thick steel helmet, painted a simple drab green. -->
+  <Apparel_StrelkyHelmet.description>A thick steel helmet, painted a simple drab green.</Apparel_StrelkyHelmet.description>
+</LanguageData>

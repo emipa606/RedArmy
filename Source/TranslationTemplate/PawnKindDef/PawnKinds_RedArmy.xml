@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Soviet Infantry -->
+  <SovietAssaultInfantry.label>Soviet Infantry</SovietAssaultInfantry.label>
+  <!-- EN: Soviet Bannerman -->
+  <SovietBannerman.label>Soviet Bannerman</SovietBannerman.label>
+  <!-- EN: Garrison Commander -->
+  <SovietFactionCommander.label>Garrison Commander</SovietFactionCommander.label>
+  <!-- EN: Soviet Grenadier -->
+  <SovietGrenadier.label>Soviet Grenadier</SovietGrenadier.label>
+  <!-- EN: Soviet Infantry -->
+  <SovietGuardsInfantry.label>Soviet Infantry</SovietGuardsInfantry.label>
+  <!-- EN: Soviet Infantry -->
+  <SovietInfantry.label>Soviet Infantry</SovietInfantry.label>
+  <!-- EN: Soviet Machinegunner -->
+  <SovietMG.label>Soviet Machinegunner</SovietMG.label>
+  <!-- EN: Soviet Scout -->
+  <SovietScoutInfantry.label>Soviet Scout</SovietScoutInfantry.label>
+</LanguageData>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Pistol Bullet -->
+  <Bullet_SovietLMG.label>Pistol Bullet</Bullet_SovietLMG.label>
+  <!-- EN: Pistol Bullet -->
+  <Bullet_SovietMachinePistol.label>Pistol Bullet</Bullet_SovietMachinePistol.label>
+  <!-- EN: Pistol Bullet -->
+  <Bullet_SovietPistol.label>Pistol Bullet</Bullet_SovietPistol.label>
+  <!-- EN: Rifle bullet -->
+  <Bullet_SovietRifle.label>Rifle bullet</Bullet_SovietRifle.label>
+  <!-- EN: Sniper rifle bullet -->
+  <Bullet_SovietSniper.label>Sniper rifle bullet</Bullet_SovietSniper.label>
+  <!-- EN: 45mm shell -->
+  <Bullet_SovietTank.label>45mm shell</Bullet_SovietTank.label>
+  <!-- EN: DP 27 Light Machine Gun -->
+  <DPTwentySeven.label>DP 27 Light Machine Gun</DPTwentySeven.label>
+  <!-- EN: The DP27 was designed as a light, squad support weapon designed to provide suppressive fire to enemy targets. -->
+  <DPTwentySeven.description>The DP27 was designed as a light, squad support weapon designed to provide suppressive fire to enemy targets.</DPTwentySeven.description>
+  <!-- EN: stock -->
+  <DPTwentySeven.tools.stock.label>stock</DPTwentySeven.tools.stock.label>
+  <!-- EN: DP 27 Light Machine Gun -->
+  <DPTwentySeven.verbs.Verb_Shoot.label>DP 27 Light Machine Gun</DPTwentySeven.verbs.Verb_Shoot.label>
+  <!-- EN: Mosin Nagant 91/30 -->
+  <MosinNagant.label>Mosin Nagant 91/30</MosinNagant.label>
+  <!-- EN: The Mosin Nagant was one of the most widely used weapons in the Soviet Army. Well made, rugged and dependable, this is a bolt action, high stopping power rifle. -->
+  <MosinNagant.description>The Mosin Nagant was one of the most widely used weapons in the Soviet Army. Well made, rugged and dependable, this is a bolt action, high stopping power rifle.</MosinNagant.description>
+  <!-- EN: bayonet -->
+  <MosinNagant.tools.bayonet.label>bayonet</MosinNagant.tools.bayonet.label>
+  <!-- EN: stock -->
+  <MosinNagant.tools.stock.label>stock</MosinNagant.tools.stock.label>
+  <!-- EN: Mosin Nagant 91/30 -->
+  <MosinNagant.verbs.Verb_Shoot.label>Mosin Nagant 91/30</MosinNagant.verbs.Verb_Shoot.label>
+  <!-- EN: Mosin Nagant - Sniper -->
+  <MosinSniper.label>Mosin Nagant - Sniper</MosinSniper.label>
+  <!-- EN: The standard infantry weapon of the Soviet Union, this version of the Mosin Nagant has had a telescopic scope attached. -->
+  <MosinSniper.description>The standard infantry weapon of the Soviet Union, this version of the Mosin Nagant has had a telescopic scope attached.</MosinSniper.description>
+  <!-- EN: stock -->
+  <MosinSniper.tools.stock.label>stock</MosinSniper.tools.stock.label>
+  <!-- EN: Mosin Nagant - Sniper -->
+  <MosinSniper.verbs.Verb_Shoot.label>Mosin Nagant - Sniper</MosinSniper.verbs.Verb_Shoot.label>
+  <!-- EN: Mosin Nagant - Sniper variant -->
+  <MosinSniperVariant.label>Mosin Nagant - Sniper variant</MosinSniperVariant.label>
+  <!-- EN: The standard infantry weapon of the Soviet Union, this version of the Mosin Nagant has had a telescopic scope attached, as well as camouflage wrapped around the barrel, stock, and scope. -->
+  <MosinSniperVariant.description>The standard infantry weapon of the Soviet Union, this version of the Mosin Nagant has had a telescopic scope attached, as well as camouflage wrapped around the barrel, stock, and scope.</MosinSniperVariant.description>
+  <!-- EN: stock -->
+  <MosinSniperVariant.tools.stock.label>stock</MosinSniperVariant.tools.stock.label>
+  <!-- EN: Mosin Nagant - Sniper variant -->
+  <MosinSniperVariant.verbs.Verb_Shoot.label>Mosin Nagant - Sniper variant</MosinSniperVariant.verbs.Verb_Shoot.label>
+  <!-- EN: Nagant 1895 Pistol -->
+  <Nagant1895Pistol.label>Nagant 1895 Pistol</Nagant1895Pistol.label>
+  <!-- EN: The Nagant was a revolver employed in the use of soviet officers and comissars. The weapon was slow to reload, and held a relatively weak cartridge, but maintained a decent stopping power at close range. -->
+  <Nagant1895Pistol.description>The Nagant was a revolver employed in the use of soviet officers and comissars. The weapon was slow to reload, and held a relatively weak cartridge, but maintained a decent stopping power at close range.</Nagant1895Pistol.description>
+  <!-- EN: stock -->
+  <Nagant1895Pistol.tools.stock.label>stock</Nagant1895Pistol.tools.stock.label>
+  <!-- EN: Nagant 1895 Pistol -->
+  <Nagant1895Pistol.verbs.Verb_Shoot.label>Nagant 1895 Pistol</Nagant1895Pistol.verbs.Verb_Shoot.label>
+  <!-- EN: PPSh Model 41 Drum -->
+  <PPSh.label>PPSh Model 41 Drum</PPSh.label>
+  <!-- EN: The PPSh was designed as a squad assault weapon, with an extremelly high rate of fire. -->
+  <PPSh.description>The PPSh was designed as a squad assault weapon, with an extremelly high rate of fire.</PPSh.description>
+  <!-- EN: stock -->
+  <PPSh.tools.stock.label>stock</PPSh.tools.stock.label>
+  <!-- EN: PPSh Model 41 Drum -->
+  <PPSh.verbs.Verb_Shoot.label>PPSh Model 41 Drum</PPSh.verbs.Verb_Shoot.label>
+  <!-- EN: RG 42 -->
+  <Proj_GrenadeRG.label>RG 42</Proj_GrenadeRG.label>
+  <!-- EN: Soviet Banner -->
+  <SovietBanner.label>Soviet Banner</SovietBanner.label>
+  <!-- EN: A banner designed to inspire the soldiers around it. The banner carrier can also resort to using this as a weapon if need be, the end of the pole sharpened - not an ideal weapon. -->
+  <SovietBanner.description>A banner designed to inspire the soldiers around it. The banner carrier can also resort to using this as a weapon if need be, the end of the pole sharpened - not an ideal weapon.</SovietBanner.description>
+  <!-- EN: handle -->
+  <SovietBanner.tools.handle.label>handle</SovietBanner.tools.handle.label>
+  <!-- EN: point -->
+  <SovietBanner.tools.point.label>point</SovietBanner.tools.point.label>
+  <!-- EN: 45mm cannon -->
+  <SovietTankLightGun.label>45mm cannon</SovietTankLightGun.label>
+  <!-- EN: A light cannon designed to be mounted on tanks with a lighter chassis. Still extremely effective against infantry targets and light armor. -->
+  <SovietTankLightGun.description>A light cannon designed to be mounted on tanks with a lighter chassis. Still extremely effective against infantry targets and light armor.</SovietTankLightGun.description>
+  <!-- EN: 45mm cannon -->
+  <SovietTankLightGun.verbs.Verb_ShootOneUse.label>45mm cannon</SovietTankLightGun.verbs.Verb_ShootOneUse.label>
+  <!-- EN: SVT-40 -->
+  <SVTForty.label>SVT-40</SVTForty.label>
+  <!-- EN: The SVT was designed as a semi-automatic weapon designed for use by veteran soldiers of the Red Army. This weapon is effective at longer and mid ranges. -->
+  <SVTForty.description>The SVT was designed as a semi-automatic weapon designed for use by veteran soldiers of the Red Army. This weapon is effective at longer and mid ranges.</SVTForty.description>
+  <!-- EN: bayonet -->
+  <SVTForty.tools.bayonet.label>bayonet</SVTForty.tools.bayonet.label>
+  <!-- EN: stock -->
+  <SVTForty.tools.stock.label>stock</SVTForty.tools.stock.label>
+  <!-- EN: SVT-40 -->
+  <SVTForty.verbs.Verb_Shoot.label>SVT-40</SVTForty.verbs.Verb_Shoot.label>
+  <!-- EN: RG-42 -->
+  <Weapon_RGFortyTwo.label>RG-42</Weapon_RGFortyTwo.label>
+  <!-- EN: Russian style hand grenades. -->
+  <Weapon_RGFortyTwo.description>Russian style hand grenades.</Weapon_RGFortyTwo.description>
+  <!-- EN: throw RG42 -->
+  <Weapon_RGFortyTwo.verbs.throw_RG42.label>throw RG42</Weapon_RGFortyTwo.verbs.throw_RG42.label>
+</LanguageData>
